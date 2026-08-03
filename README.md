@@ -2,7 +2,7 @@
 
 This project demonstrates how to control four DC motors using two L293D motor drivers and an Arduino Uno.
 ##Demonstration
-![DC Motor Demo](DC_Control_with_L293D.GIF)
+![DC Motor Demo](DC_Control_with_L293D.GIF.mp4)
 ## Components
 - Arduino Uno
 - 2 × L293D Motor Driver
